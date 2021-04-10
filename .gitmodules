@@ -7,27 +7,34 @@
 	path = dams
 	url = https://github.com/jsta/dams
 	shallow = true
+	registered = true
 [submodule "nesRdata"]
 	path = nesRdata
 	url = https://github.com/jsta/nesrdata
 	shallow = true
+	registered = true
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/jsta/nhdr
 	shallow = true
+	registered = true
 [submodule "nlaR"]
 	path = nlaR
 	url = https://github.com/jsta/nlar
 	shallow = true
+	registered = true
 [submodule "rv"]
 	path = rv
 	url = https://github.com/jsta/rv
 	shallow = true
+	registered = true
 [submodule "wikilake"]
 	path = wikilake
 	url = https://github.com/jsta/wikilake
 	shallow = true
+	registered = true
 [submodule "wql"]
 	path = wql
 	url = https://github.com/jsta/wql
 	shallow = true
+	registered = true
