@@ -8,6 +8,11 @@
 	url = https://github.com/jsta/dams
 	shallow = true
 	registered = true
+[submodule "ipdw"]
+	path = ipdw
+	url = https://github.com/jsta/ipdw
+	shallow = true
+	registered = true
 [submodule "nesRdata"]
 	path = nesRdata
 	url = https://github.com/jsta/nesrdata
