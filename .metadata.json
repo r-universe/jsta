@@ -12,9 +12,6 @@
     "oncran": true
   },
   {
-    "package": "nhdR"
-  },
-  {
     "package": "nlaR",
     "oncran": true
   },
