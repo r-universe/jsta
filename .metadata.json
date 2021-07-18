@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "nhdR",
+    "oncran": true
+  },
+  {
     "package": "nlaR",
     "oncran": true
   },
