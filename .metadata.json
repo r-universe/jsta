@@ -1,14 +1,14 @@
 [
   {
-    "package": "dams",
-    "oncran": true
-  },
-  {
     "package": "ipdw",
     "oncran": true
   },
   {
-    "package": "nesRdata",
+    "package": "wikilake",
+    "oncran": true
+  },
+  {
+    "package": "wql",
     "oncran": true
   },
   {
@@ -20,15 +20,15 @@
     "oncran": true
   },
   {
+    "package": "dams",
+    "oncran": true
+  },
+  {
     "package": "rv",
     "oncran": true
   },
   {
-    "package": "wikilake",
-    "oncran": true
-  },
-  {
-    "package": "wql",
+    "package": "nesRdata",
     "oncran": true
   }
 ]
