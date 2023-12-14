@@ -14,9 +14,6 @@
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/jsta/nhdr
-[submodule "nlaR"]
-	path = nlaR
-	url = https://github.com/jsta/nlar
 [submodule "rv"]
 	path = rv
 	url = https://github.com/jsta/rv
