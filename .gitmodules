@@ -14,9 +14,6 @@
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/jsta/nhdr
-[submodule "rv"]
-	path = rv
-	url = https://github.com/jsta/rv
 [submodule "wikilake"]
 	path = wikilake
 	url = https://github.com/jsta/wikilake
