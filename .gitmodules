@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dams"]
-	path = dams
-	url = https://github.com/jsta/dams
 [submodule "ipdw"]
 	path = ipdw
 	url = https://github.com/jsta/ipdw
