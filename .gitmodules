@@ -5,9 +5,6 @@
 [submodule "ipdw"]
 	path = ipdw
 	url = https://github.com/jsta/ipdw
-[submodule "nesRdata"]
-	path = nesRdata
-	url = https://github.com/jsta/nesrdata
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/jsta/nhdr
