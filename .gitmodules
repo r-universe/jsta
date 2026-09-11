@@ -7,7 +7,7 @@
 	url = https://github.com/jsta/ipdw
 [submodule "nhdR"]
 	path = nhdR
-	url = https://github.com/jsta/nhdr
+	url = https://codeberg.org/jsta/nhdr
 [submodule "wikilake"]
 	path = wikilake
 	url = https://github.com/jsta/wikilake
