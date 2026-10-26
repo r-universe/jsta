@@ -13,4 +13,4 @@
 	url = https://github.com/jsta/wikilake
 [submodule "wql"]
 	path = wql
-	url = https://github.com/jsta/wql
+	url = https://codeberg.org/jsta/wql
