@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "ipdw"]
 	path = ipdw
-	url = https://github.com/jsta/ipdw
+	url = https://codeberg.org/jsta/ipdw
 [submodule "nhdR"]
 	path = nhdR
 	url = https://codeberg.org/jsta/nhdr
 [submodule "wikilake"]
 	path = wikilake
-	url = https://github.com/jsta/wikilake
+	url = https://codeberg.org/jsta/wikilake
 [submodule "wql"]
 	path = wql
 	url = https://codeberg.org/jsta/wql
